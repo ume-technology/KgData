@@ -9,7 +9,7 @@
 """
 import json
 
-# with open('../AliOpenKG_TBox/AliOpenKG_TBox_All_OriginStr.jsonld', 'r', encoding='utf-8') as f:
+# with open('../AliOpenKG_TBox/AliOpenKG_TBox_All_OriginStr.json', 'r', encoding='utf-8') as f:
 #     for idx, line in enumerate(f):
 #         print(line)
 #         if idx == 30:
